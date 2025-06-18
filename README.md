@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Gabe , an <a href="www.linkedin.com/in/gabriel-v-6b31b12b6">IT Specialist</a>☺</h1>
+<h1>Hi there, I'm Gabe , an <a href="https://www.linkedin.com/in/gabriel-v-6b31b12b6/">IT Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
